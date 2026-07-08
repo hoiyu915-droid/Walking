@@ -2,11 +2,11 @@
 
 Source: current discussion session
 Status: working hypotheses / reading notes
-Scope: 步行運動學、運動連鎖、筋膜動力學、ECM、運動營養、mito/Ca2+/VitD、高負荷活動度
+Scope: 步行運動學、運動連鎖、筋膜動力學、ECM、運動營養、mito/Ca2+/VitD、高負荷活動度、SI force closure、浮動滑走步態
 
 ## 一句話總結
 
-這輪討論把「走路」從姿勢或單肌肉問題，升級成一個全身系統：足部接地、骨盆控制、臀大肌/臀中肌、胸腰筋膜、筋腱彈性、ECM 修復品質、mito/Ca2+ handling 與代謝環境，共同決定身體能不能有效承重、傳力、恢復與避免疼痛代償。
+這輪討論把「走路」從姿勢或單肌肉問題，升級成一個全身系統：足部接地、骨盆控制、臀大肌/臀中肌、胸腰筋膜、SI force closure、筋腱彈性、ECM 修復品質、mito/Ca2+ handling 與代謝環境，共同決定身體能不能有效承重、傳力、恢復與避免疼痛代償。
 
 ## 主題地圖
 
@@ -52,14 +52,20 @@ Scope: 步行運動學、運動連鎖、筋膜動力學、ECM、運動營養、m
 
 對應檔案：`07_public_language_and_boundaries.md`
 
+### 8. SI force closure、彈性能量蓄積與浮動滑走步態
+
+核心：正常步行不是完全鎖死骨盆，而是在 SI joint 微小可動、force closure、筋腱彈性儲能與重心平滑滑走之間取得動態穩定。
+
+對應檔案：`08_si_force_closure_elastic_storage.md`
+
 ## 總框架
 
 代謝/恢復環境
 → mito ATP / Ca2+ handling / VitD-VDR / ECM remodeling
 → 筋膜、肌腱、關節囊、scar interface 的材料性質
 → 界面滑動、被動張力、活動度與疼痛威脅
-→ 骨盆控制、臀肌上線、足部接地與全身傳力
-→ 步態效率與恢復品質。
+→ SI force closure、骨盆控制、臀肌上線、足部接地與全身傳力
+→ 重心平滑滑走、步態效率與恢復品質。
 
 ## 邊界
 
@@ -67,4 +73,5 @@ Scope: 步行運動學、運動連鎖、筋膜動力學、ECM、運動營養、m
 - 不把個案經驗直接包裝成療法。
 - 不把「黏、硬、卡」直接等同可見 adhesion。
 - 不把「大重量有效」簡化成「越重越好」。
+- 不把所有 SI / hamstrings / 腰臀腿痛都收斂成同一個原因。
 - 肌腱鈣化、肌肉鈣化與 mito/VitD 的直接因果仍需補證。
