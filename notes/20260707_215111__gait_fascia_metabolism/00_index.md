@@ -58,6 +58,18 @@ Scope: 步行運動學、運動連鎖、筋膜動力學、ECM、運動營養、m
 
 對應檔案：`08_si_force_closure_elastic_storage.md`
 
+### 9. 運動連鎖（OKC/CKC）與時間距離因子
+
+核心：Reuleaux(1875)/Steindler(1995)的剛體連鎖概念，定義開放/閉鎖運動連鎖，預測同一動作在不同連鎖狀態下的關節應力分布差異。詞彙補完層，不直接進入 SI/彈性儲能主線。
+
+對應檔案：`09_okc_ckc_kinetic_chain.md`
+
+### 10. Dananberg 雙擺假說與慣性
+
+核心：上肢交互擺盪構成雙擺，位能/動能轉換達成上半身能量保存；與 08 的組織彈性儲能是平行、不同物理尺度的機制，不應合併因果。
+
+對應檔案：`10_dananberg_double_pendulum_inertia.md`
+
 ## 總框架
 
 代謝/恢復環境
